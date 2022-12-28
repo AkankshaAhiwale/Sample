@@ -1,2 +1,2 @@
 # Sample
-Sample Repo
+Sample Repo to demostrate the git cmds
